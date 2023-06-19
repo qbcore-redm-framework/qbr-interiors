@@ -753,7 +753,7 @@ RequestImap(-142900294) --Section 9 2229.82
 
 ------------------------------------- Heartland Oil Station
 RemoveImap(-84516711)  --Run Down Closed Station
-RequestImap(-657241692)  --Oil Pipe
+--RequestImap(-657241692)  --Oil Pipe
 RequestImap(-1112373128)  --Oil Tower
 RequestImap(1597665303) -- station interior
 RequestImap(1460466036) -- something to do with a bridge at oil station 570.3, 596.73, 110.75
